@@ -27,7 +27,7 @@ namespace Zadanie_1_Loops
                 {
                     if(i % 2 != 0)
                         {
-                            Console.WriteLine("Все нечётные числа, лежащие в интервале от 0 до 10 "+ i);
+                            Console.WriteLine("Все нечётные числа, лежащие в интервале от 0 до 10 " + i);
                         }
                 }
             Console.ReadKey();
